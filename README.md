@@ -45,5 +45,9 @@ In the final part, we implemented a simple dashboard to showcase our visualizati
 - [Awesome Dash GitHub Repository](https://github.com/ucg8j/awesome-dash)
 - [Dash Documentation](https://dash.plotly.com/)
 
-## Conclusion
-Reflect on the overall project experience, discussing what you learned about data visualization and the tools used.
+## Output
+
+https://github.com/user-attachments/assets/3d0c1db8-7982-4ecc-b6aa-0eb33c357466
+
+
+
